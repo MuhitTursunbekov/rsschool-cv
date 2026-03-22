@@ -2,7 +2,7 @@
 
 ## Contacts
 - Email: secret@email.com
-- GitHub: https://github.com/secretemes
+- GitHub: https://github.com/secretemese
 
 ## About Me
 I am a beginner frontend developer.
